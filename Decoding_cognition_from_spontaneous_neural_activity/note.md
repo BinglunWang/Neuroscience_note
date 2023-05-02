@@ -14,3 +14,5 @@ Drawbacks: data-driven approaches are not as well positioned to provide a cognit
 
 3. ‘representation- rich' approach combine these two advantages. It is predicated on an assumption that the same neural representations of task events (for example, ‘house’ or ‘apple’) are active both on- task and off- task.
 
+Such representations can first be derived from task- evoked neural activity and their reactivations can subsequently be obtained through decoding. 
+
